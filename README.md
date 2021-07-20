@@ -1,5 +1,5 @@
-<h1 align="center">Oi, meu nome é Ingrid.</h1>
-<h3 align="center">Sou uma aluna do EduTech e estou aprendendo programação Front-End.</h3>
+<h1 align="center">Oi, meu nome é Ingrid 👋</h1>
+<h3 align="center">Sou uma aluna do EduTech e estou aprendendo programação Front-End!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingridcristine&label=Profile%20views&color=0e75b6&style=flat" alt="ingridcristine" /> </p>
 
